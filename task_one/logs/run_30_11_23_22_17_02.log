@@ -1,0 +1,5 @@
+2023-11-30 22:17:02,431 - __main__ - INFO - Starting the currency conversion process
+2023-11-30 22:17:02,507 - src.scripts.csv_builder - INFO - Writing CSV file in chunks to .\data\preprocessed\sales_report_converted_output.csv\
+2023-11-30 22:17:02,507 - src.scripts.csv_builder - INFO - Reading CSV file in chunks from .\data\raw\sales_report_input.csv
+2023-11-30 22:17:02,518 - src.scripts.csv_builder - ERROR - Error writing CSV file in chunks: [Errno 22] Invalid argument: '.\\data\\preprocessed\\sales_report_converted_output.csv\\'
+2023-11-30 22:17:02,518 - __main__ - INFO - Currency conversion process completed

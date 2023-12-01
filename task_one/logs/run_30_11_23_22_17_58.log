@@ -1,0 +1,4 @@
+2023-11-30 22:17:58,173 - __main__ - INFO - Starting the currency conversion process
+2023-11-30 22:17:58,250 - src.scripts.csv_builder - INFO - Writing CSV file in chunks to .\data\preprocessed\sales_report_converted_output.csv
+2023-11-30 22:17:58,250 - src.scripts.csv_builder - INFO - Reading CSV file in chunks from .\data\raw\sales_report_input.csv
+2023-11-30 22:17:58,264 - __main__ - INFO - Currency conversion process completed
